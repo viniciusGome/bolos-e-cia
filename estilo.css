@@ -1,0 +1,29 @@
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    justify-content: space-around;
+    width:100%;
+    height:100px;
+    background-color: darkcyan;
+    margin-top: 15px;
+}
+footer > p{
+    text-align: justify;
+    font-size: large;
+}
+form{
+    width: 100%;
+}
+form > #form-produtos {
+    margin-top: 30px;
+}
+#upB{
+    display: none;
+    position: fixed;
+    cursor: pointer;
+    z-index: 1;
+    bottom: 26px;
+    right: 25px;
+}
