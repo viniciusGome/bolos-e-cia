@@ -2,7 +2,10 @@
     $img1 = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTxAEKzeXZ_wKBMmvlkwJzufunUQ7G9cXWcw&usqp=CAU";
     $img2 = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2o8ituVzVtVFTRPrzVNF6bjSCpW4oJXjPfg&usqp=CAU";
     $img3 = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIx3i4FzX4Mg86oUSC9cHSnXJAxYElpR16ww&usqp=CAU";
+
+    // componente de slide feito em bootstrap
 ?>
+
 
 <style>
     .carousel-item > img{
