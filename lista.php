@@ -1,5 +1,5 @@
 <?php include "header.php"; ?>
-
+    <!-- pagina que faz a listagem do estoque -->
     <article class="jumbotron"> <!-- cabeçalho de introdução da pagina de lista de produtos -->
         <h1 class="display-4">Olá, confira seu pedidos aqui (;</h1>
         <hr>
