@@ -1,3 +1,4 @@
+<!-- componente de cabeçalho para todas as paginas -->
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
