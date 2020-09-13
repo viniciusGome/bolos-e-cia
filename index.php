@@ -1,4 +1,4 @@
-
+<!-- ponto de entrada do site -->
 <?php include_once "header.php"; //o cabeçalho esta no header.php, ele possui apenas a navbar. ?> 
 
 <!-- aqui é a parte de conteudo que no momento esta com os cards -->
