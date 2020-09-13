@@ -1,4 +1,4 @@
-    <footer><!-- footer generico que será melhor implementado pelo uso do template engine -->
+    <footer><!-- footer generico que será melhor implementado pelo uso do template engine ** -->
         <P>Copy Right este site foi feito por Vinicius Gomes Facebook: gomesvinicius.</p>
         <a id="upB"><i style='font-size:35px' class='fas'>&#xf35b;</i></a>
     </footer>
