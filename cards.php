@@ -1,5 +1,5 @@
 
-<?php
+<?php // pagina de bolos em destaque que fica na home
 $img = "https://images.unsplash.com/photo-1598642965554-eaa5f0362997?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80";
 
 for ($i=0; $i <3 ; $i++) { ?>
