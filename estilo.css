@@ -1,4 +1,6 @@
-
+/*
+    OBS: a maior parte do estilo foi feita com bootstrap
+*/
 footer{
     display: flex;
     align-items: center;
