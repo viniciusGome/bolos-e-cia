@@ -1,5 +1,5 @@
 <?php include "header.php";?>
-
+<!-- pagina de cadastro de bolos -->
 <div class="jumbotron">
     <h1 class="display-4">Olá, faça aqui seu cadastro de produtos!</h1>
     <hr>
