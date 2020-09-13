@@ -6,8 +6,9 @@ const paginaLista = "/lista.php";
 //alert(location.pathname);
 //pontos de entrada compartilhada.
 //location.assign("http://127.0.0.1:8000/produtos.php");
-//sessõa de cometarios, acima.
 
+// p js por emquanto esta sendo usado para auxiliar do estilo
+//sessõa de cometarios, acima.
 
 window.onload = function (){checkPage();}
 window.onscroll = function() {scrollFunction();}
